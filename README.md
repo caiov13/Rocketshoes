@@ -37,3 +37,8 @@ $ yarn start ou npm start
 ### Tecnologias 🛠
 * ReactJS
 * Typescript
+* Axios
+* styled-components
+* polished
+* react-icons
+* react-toastify
