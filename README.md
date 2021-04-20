@@ -1,6 +1,6 @@
 # Rocketshoes
 
-### Primeiro desafio do segundo módulo da trilha de ReactJS do curso Ignite
+### Desafio 01 - Criando hook
 
 ## 📷 Veja o Projeto
 
